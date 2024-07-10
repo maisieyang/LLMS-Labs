@@ -12,3 +12,7 @@ doc: https://lantu2019.feishu.cn/docx/S0IXdgX0foEjuWxpQfFcggf0nBh
 ## Lab3 
 通过强化学习微调 FLAN-T5 ，生成更符合人类价值观的摘要
 doc: https://lantu2019.feishu.cn/docx/G3N8dcj05oKqkgxQ4Fbcmc9UnBf
+
+## Lab4
+从0到1实现一个简单的ReAct Agent
+doc：https://lantu2019.feishu.cn/docx/DRfrdGG7jozMjTxesc4cIdOvnAe
